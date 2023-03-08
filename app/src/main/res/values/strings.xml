@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="login">Login</string>
+    <string name="enter_your_id">Enter your Id</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup">Signup</string>
+    <string name="reenter_password">ReEnter Password</string>
+    <string name="have_account">Have Account</string>
+</resources>
